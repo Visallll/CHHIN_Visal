@@ -54,14 +54,10 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
 </a>
-
-    
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HS-Long&show_icons=true&locale=en&layout=compact" alt="SalT3y" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bssane&show_icons=true&locale=en" alt="SalT3y" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HS-Long&" alt="SalT3y" /></p>
